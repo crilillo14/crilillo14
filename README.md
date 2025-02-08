@@ -9,7 +9,7 @@ more coming soon...
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=crilillo14" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crilillo14&layout=donut&langs_count=10" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crilillo14&layout=donut&langs_count=8" height="200">
 </p>
 
 
