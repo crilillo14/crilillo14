@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm Cristobal Lillo, this is some of the stuff that I'm working on :
+
+1. [umlinkd](https://github.com/crilillo14/umlinkdsv)
+
+RAG enabled networking search engine for U Miami students and alumni.
+
+
+2.  [Transformers](https://github.com/crilillo14/transformers)
+
+Re-implementing the attention mechanism and transformer architecture from [Attention is all you need](https://arxiv.org/abs/1706.03762).
+
+more coming soon...
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=crilillo14)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **crilillo14/crilillo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
