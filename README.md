@@ -2,14 +2,8 @@
 
 I'm Cristobal Lillo, this is some of the stuff that I'm working on :
 
-1. [umlinkd](https://github.com/crilillo14/umlinkdsv)
-
-RAG enabled networking search engine for U Miami students and alumni.
-
-
-2.  [Transformers](https://github.com/crilillo14/transformers)
-
-Re-implementing the attention mechanism and transformer architecture from [Attention is all you need](https://arxiv.org/abs/1706.03762).
+- [umlinkd](https://github.com/crilillo14/umlinkdsv) : RAG enabled networking search engine for U Miami students and alumni.
+- [Transformers](https://github.com/crilillo14/transformers) : Re-implementing the attention mechanism and transformer architecture from [Attention is all you need](https://arxiv.org/abs/1706.03762).
 
 more coming soon...
 
@@ -17,7 +11,7 @@ more coming soon...
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=crilillo14" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crilillo14&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crilillo14&layout=donut&langs_count=10&card_width=320" />
 </a>
 
 <!--
