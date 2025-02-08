@@ -7,12 +7,10 @@ I'm Cristobal Lillo, this is some of the stuff that I'm working on :
 
 more coming soon...
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=crilillo14" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crilillo14&layout=donut&langs_count=10&card_width=320" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crilillo14" width="49.6%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crilillo14&layout=donut&langs_count=10" width="49.6%" />
+</p>
 
 <!--
 **crilillo14/crilillo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
