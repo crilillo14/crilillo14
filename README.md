@@ -1,7 +1,7 @@
-```python
- coding stuff
-```
-This past week
+stuff ive made
+
+my weekly languages >
+
 <!--START_SECTION:waka-->
 
 ```txt
