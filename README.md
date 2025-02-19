@@ -1,4 +1,5 @@
-stuff ive made
+My name is Cristobal
+This is a lot of ther stuff ive made
 
 ### my week in languages
 <!--START_SECTION:waka-->
