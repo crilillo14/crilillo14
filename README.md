@@ -1,7 +1,6 @@
 stuff ive made
 
-my weekly languages >
-
+###my week in languages
 <!--START_SECTION:waka-->
 
 ```txt
