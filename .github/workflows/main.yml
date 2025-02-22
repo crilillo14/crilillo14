@@ -1,4 +1,4 @@
-name: Waka Readme
+name: WakaTime + readme stats
 
 permissions: 
   contents: write
@@ -11,6 +11,19 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.README_STATS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
@@ -18,3 +31,7 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+  
+    
+
