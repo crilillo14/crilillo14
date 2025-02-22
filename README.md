@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/crilillo14/crilillo14/main/profile-summary-card-output/city_lights/0-profile-details.svg)
 
 <!--START_SECTION:waka-->
 
