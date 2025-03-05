@@ -1,4 +1,4 @@
-name: WakaTime + readme stats
+name: WakaTime DevMetrics
 
 permissions: 
   contents: write
@@ -7,31 +7,14 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
+    # runs at 12 AM UTC
     - cron: "0 0 * * *"
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-cards
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.README_STATS_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-  
-    
-
