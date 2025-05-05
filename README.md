@@ -1,4 +1,3 @@
-<h1>I LOVE DICK</h1>
 
 
 <p align="center"><samp>this past week</samp></p>
