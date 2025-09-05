@@ -4,7 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-sshconfig   9 mins          █████████████████████████   100.00 %
+Java        18 mins         ████████████████▓░░░░░░░░   66.12 %
+sshconfig   9 mins          ████████▒░░░░░░░░░░░░░░░░   33.88 %
 ```
 
 <!--END_SECTION:waka-->
