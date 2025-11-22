@@ -12,6 +12,5 @@ Julia    7 mins          ███▒░░░░░░░░░░░░░░�
 Text     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
-<!--END_SECTION:waka-->`
-
+<!--END_SECTION:waka-->
 Podrán cortar todas las flores, pero no podrán detener la primavera
