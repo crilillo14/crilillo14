@@ -10,6 +10,7 @@ Also thinking about [this](https://arxiv.org/abs/2510.04871).
 I feel like starting a technical blog. When I do make one, it'll be linked here. Something like [this](https://www.a1k0n.net/2011/07/20/donut-math.html) I think.
 
 <p align="center"><samp>this past week</samp></p>
+
 <!--START_SECTION:waka-->
 
 ```txt
