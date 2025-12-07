@@ -1,5 +1,5 @@
 
-CS + Math at the University of Miami \
+Doing a BS in CS + Math at the University of Miami \
 Enjoy statistical learning and game theory \
 Learning Julia
 
