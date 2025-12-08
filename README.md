@@ -14,10 +14,11 @@ I feel like starting a technical blog. When I do make one, it'll be linked here.
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 19 mins    ███████████████████▓░░░░░   79.04 %
-Java         19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python       4 hrs 27 mins   █████████████████████░░░░   84.08 %
+Markdown     28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Java         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Lua          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
