@@ -14,9 +14,8 @@ I feel like starting a technical blog. When I do make one, it'll be linked here.
 <!--START_SECTION:waka-->
 
 ```txt
-Text     57 mins         ██████████████░░░░░░░░░░░   56.21 %
-Python   41 mins         ██████████▒░░░░░░░░░░░░░░   41.00 %
-Java     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Java   2 mins          ████████████████████████▓   98.04 %
+Text   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
