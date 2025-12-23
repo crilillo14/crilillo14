@@ -1,6 +1,4 @@
-
-Doing a BS in CS + Math at the University of Miami \
-Enjoy relaxing assumptions of complex systems
+Relaxing assumptions is the best
 
 Currently reading [this](https://arxiv.org/abs/1611.04494), [this](https://arxiv.org/html/2407.01742v3), and [this](https://books.google.com/books/about/Numerical_Linear_Algebra.html?id=JaPtxOytY7kC).
 
