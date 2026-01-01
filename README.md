@@ -12,10 +12,8 @@ Also thinking about [this](https://arxiv.org/abs/2510.04871).
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   26 mins         ██████████████▓░░░░░░░░░░   59.15 %
-Lua        16 mins         █████████░░░░░░░░░░░░░░░░   36.07 %
-Other      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Markdown   4 mins          ███████████████████████▓░   94.81 %
+Other      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
 ```
 
 <!--END_SECTION:waka-->
