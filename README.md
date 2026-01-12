@@ -1,4 +1,4 @@
-Interested in studying dynamical systems and chaos
+Learning Julia
 
 Currently reading [this](https://arxiv.org/abs/1611.04494), [this](https://arxiv.org/html/2407.01742v3), and [this](https://books.google.com/books/about/Numerical_Linear_Algebra.html?id=JaPtxOytY7kC).
 
