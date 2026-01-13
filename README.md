@@ -12,7 +12,9 @@ Also thinking about [this](https://arxiv.org/abs/2510.04871).
 <!--START_SECTION:waka-->
 
 ```txt
-Text   2 mins          █████████████████████████   100.00 %
+Julia      2 hrs 15 mins   ████████████████████████░   96.49 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
