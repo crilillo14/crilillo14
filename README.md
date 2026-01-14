@@ -12,9 +12,11 @@ Also thinking about [this](https://arxiv.org/abs/2510.04871).
 <!--START_SECTION:waka-->
 
 ```txt
-Julia      2 hrs 15 mins   ████████████████████████░   96.49 %
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Julia      3 hrs 15 mins   ██████████████████████▓░░   90.43 %
+TOML       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Markdown   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
