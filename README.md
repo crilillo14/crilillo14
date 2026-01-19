@@ -9,7 +9,7 @@ Working on [Cross Model Fusion Learning](https://github.com/crilillo14/fusionLea
 
 [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf) by Kochenderfer, along with his [Algorithms for Optimization](https://algorithmsbook.com/optimization/), 2nd ed.\
 Getting through [a new tensor compute paradigm](https://arxiv.org/html/2407.01742v3). \
-[TRMs](https://arxiv.org/abs/2510.04871) as well as [Muon Optimizers](https://arxiv.org/abs/2502.16982).
+Understanding [TRMs](https://arxiv.org/abs/2510.04871) as well as [Muon Optimizers](https://arxiv.org/abs/2502.16982).
 
 
 
