@@ -1,13 +1,19 @@
-Learning Julia
+Hi! My name is Cristobal Lillo, a 3rd year undergrad at UM. My interests lie in scientific computing, linear algebra, and stats. Moved to Miami from Chile in 2023 to study Math and Computer Science with a full scholarship. Loving the process!
 
-Currently reading [this](https://arxiv.org/abs/1611.04494), [this](https://arxiv.org/html/2407.01742v3), and [this](https://books.google.com/books/about/Numerical_Linear_Algebra.html?id=JaPtxOytY7kC).
+### Currently
 
-Also thinking about [this](https://arxiv.org/abs/2510.04871).
-[..](http://arxiv.org/abs/2510.00219)
+Learning Julia \
+Working on [Cross Model Fusion Learning](https://github.com/crilillo14/fusionLearning). 
+
+### Self Learning
+
+[Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf) by Kochenderfer, along with his [Algorithms for Optimization](https://algorithmsbook.com/optimization/), 2nd ed.\
+Getting through [a new tensor compute paradigm](https://arxiv.org/html/2407.01742v3). \
+[TRMs](https://arxiv.org/abs/2510.04871) as well as [Muon Optimizers](https://arxiv.org/abs/2502.16982).
 
 
 
-<p align="center"><samp>this past week</samp></p>
+<p align="center"><samp>This past week in languages</samp></p>
 
 <!--START_SECTION:waka-->
 
