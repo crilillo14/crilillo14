@@ -5,7 +5,7 @@ Hi! My name is Cristobal Lillo, a 3rd year undergrad at UM. My interests lie in 
 Learning Julia \
 Working on [Cross Model Fusion Learning](https://github.com/crilillo14/fusionLearning). 
 
-### Self Learning
+### Reading
 
 [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf) by Kochenderfer, along with his [Algorithms for Optimization](https://algorithmsbook.com/optimization/), 2nd ed.\
 Getting through [a new tensor compute paradigm](https://arxiv.org/html/2407.01742v3). \
