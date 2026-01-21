@@ -1,4 +1,4 @@
-Hi! My name is Cristobal Lillo, a 3rd year undergrad at UM. My interests lie in scientific computing, linear algebra, and stats. Moved to Miami from Chile in 2023 to study Math and Computer Science with a full scholarship. Loving the process!
+Hi! My name is Cristobal Lillo, a 3rd year undergrad at UM. My interests lie in scientific computing, linear algebra, and stats. Moved to Miami from Chile in 2023 to study Math and Computer Science with a full scholarship. 
 
 ### Currently
 
