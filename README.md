@@ -22,11 +22,11 @@ Understanding [TRMs](https://arxiv.org/abs/2510.04871) as well as [Muon Optimize
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 7 mins    ████████████▓░░░░░░░░░░░░   51.26 %
-Astro        2 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
-Markdown     59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-JavaScript   55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-MDX          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Python       4 hrs 55 mins   ████████████▓░░░░░░░░░░░░   51.11 %
+Astro        2 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+JavaScript   1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+MDX          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Lua          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
