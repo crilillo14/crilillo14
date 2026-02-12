@@ -5,7 +5,7 @@ Hi! My name is Cristobal Lillo, a 3rd year undergrad at UM. My interests lie in 
 ### Currently
 
 Learning Julia \
-Working on [Cross Model Fusion Learning](https://github.com/crilillo14/fusionLearning). 
+Working on [Cross Model Fusion Learning](https://github.com/crilillo14/fusionLearning), [tinyHPO](https://github.com/crilillo14/tinyHPO)
 
 ---
 
