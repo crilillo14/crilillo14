@@ -1,7 +1,5 @@
 
-Hi! My name is Cristobal Lillo, a 3rd year math + cs undergrad at UM.
-
-> *Feel free to reach out!*
+Hi! My name is Cristobal Lillo, a 3rd year math + cs undergrad at UM. 
 
 ---
 
