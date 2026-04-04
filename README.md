@@ -21,8 +21,7 @@ Markov Chains and Mixing Times, David A. Levin, 2nd ed.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 10 mins          ████████████████████████▓   99.12 %
-TOML     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Python   41 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
