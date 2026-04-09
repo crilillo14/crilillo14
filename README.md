@@ -1,5 +1,5 @@
 
-Hi! My name is Cristobal Lillo, a 3rd year math + cs undergrad at UM. 
+Hi! My name is Cristobal Lillo, a 3rd year math + cs undergrad at UM. Check me out at https://crilillo.vercel.app/.
 
 ---
 
