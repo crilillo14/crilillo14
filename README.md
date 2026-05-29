@@ -21,7 +21,7 @@ Markov Chains and Mixing Times, David A. Levin, 2nd ed.
 <!--START_SECTION:waka-->
 
 ```txt
-Julia   0 secs                █████████████████████████   100.00 %
+MDX   7 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
