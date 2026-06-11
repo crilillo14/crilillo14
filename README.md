@@ -6,7 +6,7 @@ Hi! My name is Cristobal Lillo, a 3rd year math + cs undergrad at UM. Check me o
 ### Currently
 
 Learning Julia \
-Working on [Cross Model Fusion Learning](https://github.com/crilillo14/fusionLearning), [tinyHPO](https://github.com/crilillo14/tinyHPO), [Poker stuff](https://github.com/pingusdelingus/poker_research#), mmarena (soon...)
+Working on [Cross Model Fusion Learning](https://github.com/crilillo14/fusionLearning), [tinyHPO](https://github.com/crilillo14/tinyHPO), [Poker stuff](https://github.com/pingusdelingus/poker_research#)
 
 ---
 
