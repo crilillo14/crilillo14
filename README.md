@@ -12,11 +12,8 @@ https://crilillo.vercel.app/
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 32 mins          ███████████████████▓░░░░░   78.85 %
-Markdown     12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-CSV          9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-TOML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Python     1 hr 21 mins          ████████████████████████▓   98.60 %
+Markdown   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
