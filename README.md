@@ -1,5 +1,5 @@
 
-Hi! My name is Cristobal Lillo, a 3rd year math + cs undergrad at UM. My main research interests lie within ADP / RL / control theory.
+Hi! My name is Cristobal Lillo, a 3rd year math + cs undergrad at UM. My main research interests lie within ADP / MARL / control theory.
 
 https://crilillo.vercel.app/
 
