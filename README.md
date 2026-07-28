@@ -12,8 +12,9 @@ https://crilillo.vercel.app/
 <!--START_SECTION:waka-->
 
 ```txt
-Docker     0 secs                █████████████████▓░░░░░░░   71.15 %
-Markdown   0 secs                ███████▒░░░░░░░░░░░░░░░░░   28.85 %
+Python     2 mins                █████████████████████░░░░   84.30 %
+Docker     0 secs                ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
