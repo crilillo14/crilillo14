@@ -12,7 +12,11 @@ https://crilillo.vercel.app/
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 mins                █████████████████████████   100.00 %
+Markdown     41 mins               ██████████▒░░░░░░░░░░░░░░   41.87 %
+SCSS         25 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+YAML         15 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+JavaScript   12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Python       2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
