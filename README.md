@@ -12,11 +12,7 @@ https://crilillo.vercel.app/
 <!--START_SECTION:waka-->
 
 ```txt
-Astro       1 hr 5 mins           ███████████████████░░░░░░   76.11 %
-MDX         8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-gitignore   8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-Python      2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Lua         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+MDX   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
