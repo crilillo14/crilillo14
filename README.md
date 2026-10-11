@@ -12,8 +12,7 @@ https://crilillo.vercel.app/
 <!--START_SECTION:waka-->
 
 ```txt
-Julia    5 mins                ████████████████████▓░░░░   82.41 %
-Python   1 min                 ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+Python   1 min                 █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
