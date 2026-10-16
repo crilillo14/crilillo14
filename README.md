@@ -12,7 +12,11 @@ https://crilillo.vercel.app/
 <!--START_SECTION:waka-->
 
 ```txt
-Astro   1 min                 █████████████████████████   100.00 %
+Other          18 mins               █████████████████████▓░░░   87.14 %
+TeX            1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Astro          1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Markdown       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+OpenEdge ABL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
