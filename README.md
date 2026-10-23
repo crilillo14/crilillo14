@@ -12,11 +12,8 @@ https://crilillo.vercel.app/
 <!--START_SECTION:waka-->
 
 ```txt
-Other          18 mins               ████████████████████▒░░░░   80.72 %
-MDX            2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-TeX            1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Markdown       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-OpenEdge ABL   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other   7 mins                ██████████████████░░░░░░░   72.04 %
+MDX     2 mins                ███████░░░░░░░░░░░░░░░░░░   27.96 %
 ```
 
 <!--END_SECTION:waka-->
