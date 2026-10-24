@@ -12,8 +12,8 @@ https://crilillo.vercel.app/
 <!--START_SECTION:waka-->
 
 ```txt
-Other   7 mins                ██████████████████░░░░░░░   72.04 %
-MDX     2 mins                ███████░░░░░░░░░░░░░░░░░░   27.96 %
+MDX     2 mins                ██████████████████████▓░░   90.16 %
+Other   0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
 ```
 
 <!--END_SECTION:waka-->
